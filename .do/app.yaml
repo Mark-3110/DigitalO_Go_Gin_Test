@@ -1,0 +1,6 @@
+name: sample-gin
+services:
+- name: web
+  github:
+    repo: digitalocean/sample-gin
+    branch: main
